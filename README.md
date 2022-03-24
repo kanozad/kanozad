@@ -1,10 +1,5 @@
 # Douglas M. Kanoza
 
-6189 Viewsite Ct. \~ Frederick, MD 21701
-
-Phone: (240) 308-4721 \~
-[[doug.kanoza@gmail.com](mailto:doug.kanoza@gmail.com)]{.underline}
-
 ## Summary
 
 A PMI and ITIL certified software engineer and project manager with over
