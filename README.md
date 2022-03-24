@@ -2,50 +2,28 @@
 
 ## Summary
 
-A PMI and ITIL certified software engineer and project manager with over
-20 years of enterprise Java software development experience in
-leadership positions. I have a proven track record of getting things
-done in dynamic environments with rapidly shifting priorities. I am
-equally at home in technical discussions, solving complex problems in
-front of the whiteboard or the keyboard, and working directly with
-stakeholders to understand their business and their needs in order to
-provide them with real, lasting technology solutions. I am seeking a
-position that will challenge me to make use of both my broad technical
-and project leadership skills.
+A PMI and ITIL certified software engineer and project manager with over 20 years of enterprise Java software development experience in leadership positions. I have a proven track record of getting things done in dynamic environments with rapidly shifting priorities. I am equally at home in technical discussions, solving complex problems in front of the whiteboard or the keyboard, and working directly with stakeholders to understand their business and their needs in order to provide them with real, lasting technology solutions. I am seeking a position that will challenge me to make use of both my broad technical and project leadership skills.
 
 ## Skills
 
-  ----------------------------------- -----------------------------------
-  Project Management                  Software Engineering
-
-  Project Management Professional     PMI Scheduling Professional
-  (PMP)                               (PMI-SP)
-
-  Team Leadership                     Coaching and Mentoring
-
-  Standards Development               Relationship Building
-
-  UML                                 SQL/PL-SQL
-
-  REST API Design                     Spring (MVC, Boot, Data JPA)
-
-  Hibernate                           Web Development
-
-  Configuration Management            Software Design and Architecture
-
-  Requirements Analysis               ITIL Foundation
-
-  Servlets/JSP                        Oracle
-
-  Java EE/J2EE Development            Apache
-
-  Tomcat                              Python
-
-  Bootstrap                           JPA
-
-  JavaScript                          JQuery
-  ----------------------------------- -----------------------------------
-
+| | |
+|---------------------------------------|-------------------------------------|
+|  Project Management                   | Software Engineering                |
+|  Project Management Professional (PMP)| PMI Scheduling Professional (PMI-SP)| 
+|  Team Leadership                      | Coaching and Mentoring              |
+|  Standards Development                | Relationship Building               |
+|  UML                                  | SQL/PL-SQL                          |
+|  REST API Design                      | Spring (MVC, Boot, Data JPA)        |
+|  Hibernate                            | Web Development                     |
+|  Configuration Management             | Software Design and Architecture    |
+|  Requirements Analysis                | ITIL Foundation                     |
+|  Servlets/JSP                         | Oracle                              |
+|  Java EE/J2EE Development             | Apache                              |
+|  Tomcat                               | Python                              |
+|  Bootstrap                            | JPA                                 |
+|  JavaScript                           | JQuery                              |
+|  Angular                              | TypeScript                          |
+  
 ## Experience
 
 **Lucidus Solutions, LLC.** Baltimore, MD
