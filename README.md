@@ -6,23 +6,23 @@ A PMI and ITIL certified software engineer and project manager with over 20 year
 
 ## Skills
 
-| | |
-|---------------------------------------|-------------------------------------|
-|  Project Management                   | Software Engineering                |
-|  Project Management Professional (PMP)| PMI Scheduling Professional (PMI-SP)| 
-|  Team Leadership                      | Coaching and Mentoring              |
-|  Standards Development                | Relationship Building               |
-|  UML                                  | SQL/PL-SQL                          |
-|  REST API Design                      | Spring (MVC, Boot, Data JPA)        |
-|  Hibernate                            | Web Development                     |
-|  Configuration Management             | Software Design and Architecture    |
-|  Requirements Analysis                | ITIL Foundation                     |
-|  Servlets/JSP                         | Oracle                              |
-|  Java EE/J2EE Development             | Apache                              |
-|  Tomcat                               | Python                              |
-|  Bootstrap                            | JPA                                 |
-|  JavaScript                           | JQuery                              |
-|  Angular                              | TypeScript                          |
+|                                       |                                      |
+|:--------------------------------------|:-------------------------------------|
+| Project Management                    | Software Engineering                 |
+| Project Management Professional (PMP) | PMI Scheduling Professional (PMI-SP) |
+| Team Leadership                       | Coaching and Mentoring               |
+| Standards Development                 | Relationship Building                |
+| UML                                   | SQL/PL-SQL                           |
+| REST API Design                       | Spring (MVC, Boot, Data JPA)         |
+| Hibernate                             | Web Development                      |
+| Configuration Management              | Software Design and Architecture     |
+| Requirements Analysis                 | ITIL Foundation                      |
+| Servlets/JSP                          | Oracle                               |
+| Java EE/J2EE Development              | Apache                               |
+| Tomcat                                | Python                               |
+| Bootstrap                             | JPA                                  |
+| JavaScript                            | JQuery                               |
+| Angular                               | TypeScript                           |
   
 ## Experience
 
