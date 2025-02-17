@@ -197,4 +197,5 @@ BA Economics, awarded March 1988
 
 - Rust
 - Go
+- PowerShell
 - Python
