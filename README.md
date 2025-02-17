@@ -2,27 +2,26 @@
 
 ## Summary
 
-A PMI and ITIL certified software engineer and project manager with over 20 years of enterprise Java software development experience in leadership positions. I have a proven track record of getting things done in dynamic environments with rapidly shifting priorities. I am equally at home in technical discussions, solving complex problems in front of the whiteboard or the keyboard, and working directly with stakeholders to understand their business and their needs in order to provide them with real, lasting technology solutions. I am seeking a position that will challenge me to make use of both my broad technical and project leadership skills.
+A PMI and ITIL certified software engineer and project manager with over 25 years of enterprise Java software development experience in leadership positions. I have a proven track record of getting things done in dynamic environments with rapidly shifting priorities. I am equally at home in technical discussions, solving complex problems in front of the whiteboard or the keyboard, and working directly with stakeholders to understand their business and their needs in order to provide them with real, lasting technology solutions. I am seeking a position that will challenge me to make use of both my broad technical and project leadership skills.
 
-## Skills
+## Summary of Skills
 
-|                                       |                                      |
-|:--------------------------------------|:-------------------------------------|
-| Project Management                    | Software Engineering                 |
-| Project Management Professional (PMP) | PMI Scheduling Professional (PMI-SP) |
-| Team Leadership                       | Coaching and Mentoring               |
-| Standards Development                 | Relationship Building                |
-| UML                                   | SQL/PL-SQL                           |
-| REST API Design                       | Spring (MVC, Boot, Data JPA)         |
-| Hibernate                             | Web Development                      |
-| Configuration Management              | Software Design and Architecture     |
-| Requirements Analysis                 | ITIL Foundation                      |
-| Servlets/JSP                          | Oracle                               |
-| Java EE/J2EE Development              | Apache                               |
-| Tomcat                                | Python                               |
-| Bootstrap                             | JPA                                  |
-| JavaScript                            | JQuery                               |
-| Angular                               | TypeScript                           |
+|                                       |                                        |
+|:--------------------------------------|:---------------------------------------|
+| Software Engineering                  | Project Management                     |
+| Project Management Professional (PMP) | PMI Scheduling Professional (PMI-SP)   |
+| Team Leadership                       | Coaching and Mentoring                 |
+| Configuration Management              | Software Design and Architecture       |
+| Standards Development                 | Relationship Building                  |
+| Angular                               | Javascript/TypeScript                  |
+| Java                                  | SQL, Oracle                            |
+| REST API Design                       | Spring Ecosystem (MVC, Boot, Data JPA) |
+| Hibernate/JPA                         | Web Development                        |
+| Requirements Analysis                 | ITIL Foundation                        |
+| Servlets/JSP                          | Oracle                                 |
+| Java EE/J2EE Development              | Apache                                 |
+| Tomcat                                | JQuery                                 |
+| Bootstrap                             | JPA                                    |
   
 ## Experience
 
@@ -35,18 +34,15 @@ March, 2016 -- Present
 National Cancer Institute Center for Biomedical Informatics and
 Information Technology
 
--   Provide software engineering expertise as well as technical
-    leadership to a cross-functional, multi-vendor team building and
-    maintaining enterprise-class software applications with Enterprise
-    Java (Struts, Spring, Hibernate), JavaScript, JQuery and Oracle
-    technologies.
--   Manage and execute on multiple projects and priorities
-    simultaneously
--   Provide technical guidance, coaching, and mentoring for junior
-    developers.
+-   Senior entgineer for a portfolio of 30+ applications and services supporting grants management workflows
+-   Led multiple technology refresh initiatives (Ant -> Maven; Spring -> Spring Boot; Hibernate -> Spring Data JPA; JSP/Tiles -> Thymeleaf)
+-   Led a multi-stage, portfolio-wide refactoring effort to migrate applications from stove-pipe MVC to REST-based microservices with Angular front-ends.
+-   Led an initiative to design and develop reusable Angular components
+-   Led an initiative to migrate all portfolio from Tomcat 8/JavaEE to Tomcat 10/JakartaEE.
+-   Manage and execute on multiple projects and priorities simultaneously
+-   Provide technical guidance, coaching, and mentoring for junior developers.
 -   Interview candidates for open positions.
--   Explore and evaluate new technologies and provide recommendations to
-    upper management on evolving our technology stack.
+-   Explore and evaluate new technologies and provide recommendations to upper management on evolving our technology stack.
 
 **Medical Science & Computing (MSC),** Rockville, MD
 
@@ -56,18 +52,10 @@ September 2015 -- March 2016
 
 National Heart, Lung, and Blood Institute
 
--   Served as configuration manager, overseeing change, configuration,
-    and release management processes for NHLBI\'s Information Technology
-    and Applications Center. Provided strategic oversight for CM team.
--   Managed a team of three configuration management specialists and two
-    communications and reporting specialists.
--   Coached SysOps engineers and government staff in application of
-    Agile practices to support successful performance across operations
-    and projects.
--   Provided expertise and guidance for a DevOps implementation,
-    spanning multiple development, QA, maintenance, and support teams.
--   Served as backup to program manager to ensure seamless support to
-    the customer in her absence.
+-   Served as configuration manager, overseeing change, configuration, and release management processes for NHLBI\'s Information Technology and Applications Center. Provided strategic oversight for CM team. Managed a team of three configuration management specialists and two communications and reporting specialists.
+-   Coached SysOps engineers and government staff in application of Agile practices to support successful performance across operations and projects.
+-   Provided expertise and guidance for a DevOps implementation, spanning multiple development, QA, maintenance, and support teams.
+-   Served as backup to program manager to ensure seamless support to the customer in her absence.
 
 **Wells Fargo Bank, NA**, Frederick, MD
 
@@ -75,54 +63,25 @@ September 2013 -- September 2015
 
 *Web Developer/Team Lead*
 
--   Primary point of contact and delivery lead for multiple teams of
-    software developers delivering quality solutions in support of
-    multiple maintenance and new development projects.
--   Guided teams in developing an appropriate technical approach for
-    each project.
--   Ensured that all our development efforts remain in compliance with
-    governance standards and policies.
--   Participated in security, risk, and business continuity planning
-    activities.
--   Worked with external partner teams to build relationships and
-    improve processes.
--   Worked with team members to help them define professional
-    development plans.
--   Worked with my manager to define my own professional development
-    plan, incorporating both personal and organizational goals.
--   Participated in focus groups and steering committees within the
-    larger organization to promote the use of Agile principles and
-    practices.
--   Championed and applied Agile principles and projects within my own
-    group.
--   Lead an initiative to develop standards and incorporate software
-    engineering best practices for the team. Shared our standards and
-    championed their use within the larger organization as well.
--   Worked with other teams within the organization to understand their
-    practices and standards to improve our working relationships with
-    them.
--   Interviewed candidates for open positions on the team. Assisted new
-    team members in getting acclimated to our team and its practices.
--   Independently developed a division-wide study group program,
-    actively recruited members from throughout the company, and lead
-    multiple groups on a variety of topics.
--   Provided technical guidance, coaching, and mentoring for developers
-    transitioning from .NET to Java technologies
--   Provided software engineering expertise and technical leadership to
-    a team building and maintaining enterprise-class software
-    applications with Enterprise Java (Spring, Spring-MVC, Spring-JDBC
-    and Hibernate, JavaScript, Ajax, YUI), .NET (C#, MVC3, jQuery), and
-    Oracle technologies.
--   Lead a team of two developers, a business analyst, and support staff
-    accepting handover of a poorly documented legacy project and
-    incorporated it into our support model. working under tight
-    timelines to deliver multiple rounds of fixes and enhancements, with
-    only the code to guide us.
--   Actively sought out other mentors within the company (both formal
-    and informal) to learn more about the larger organization and how to
-    interact with it most effectively.
+-   Primary point of contact and delivery lead for multiple teams of software developers delivering quality solutions in support of multiple maintenance and new development projects.
+-   Guided teams in developing an appropriate technical approach for each project.
+-   Ensured that all our development efforts remain in compliance with governance standards and policies.
+-   Participated in security, risk, and business continuity planning activities.
+-   Worked with external partner teams to build relationships and improve processes.
+-   Worked with team members to help them define professional development plans.
+-   Worked with my manager to define my own professional development plan, incorporating both personal and organizational goals.
+-   Participated in focus groups and steering committees within the larger organization to promote the use of Agile principles and practices.
+-   Championed and applied Agile principles and projects within my own group.
+-   Lead an initiative to develop standards and incorporate software engineering best practices for the team. Shared our standards and championed their use within the larger organization as well.
+-   Worked with other teams within the organization to understand their practices and standards to improve our working relationships with them.
+-   Interviewed candidates for open positions on the team. Assisted new team members in getting acclimated to our team and its practices.
+-   Independently developed a division-wide study group program, actively recruited members from throughout the company, and lead multiple groups on a variety of topics.
+-   Provided technical guidance, coaching, and mentoring for developers transitioning from .NET to Java technologies
+-   Provided software engineering expertise and technical leadership to a team building and maintaining enterprise-class software applications with Enterprise Java (Spring, Spring-MVC, Spring-JDBC and Hibernate, JavaScript, Ajax, YUI), .NET (C#, MVC3, jQuery), and Oracle technologies.
+-   Lead a team of two developers, a business analyst, and support staff accepting handover of a poorly documented legacy project and incorporated it into our support model. Worked under tight timelines to deliver multiple rounds of fixes and enhancements, with only the code to guide us.
+-   Actively sought out other mentors within the company (both formal and informal) to learn more about the larger organization and how to interact with it most effectively.
 
-**TerpSys,** Rockville, MD
+**TerpSys**, Rockville, MD
 
 January 2002 -- September 2013
 
@@ -298,3 +257,9 @@ BA Economics, awarded March 1988
 -   Project Management Institute Scheduling Professional (PMI-SP) (August, 2010)
 -   Sun Certified Java Programmer, Java 6 Platform (October, 2009)
 -   Project Management Professional (PMP) (June, 2007)
+
+## Hobby Languages
+
+- Rust
+- Go
+- Python
