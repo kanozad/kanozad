@@ -33,6 +33,8 @@ March, 2016 -- Present
 
 National Cancer Institute Center for Biomedical Informatics and Information Technology
 
+-   Leading the team in exploring AI integration
+-   Leveraging skills and prompt engineering to maximize results
 -   Senior engineer for a portfolio of 30+ applications and services supporting grants management workflows
 -   Led multiple technology refresh initiatives (Ant to Maven; Spring to Spring Boot; Hibernate to Spring Data JPA; JSP/Tiles to Thymeleaf)
 -   Led a multi-stage, portfolio-wide refactoring effort to migrate applications from stove-pipe MVC to REST-based microservices with Angular front-ends.
