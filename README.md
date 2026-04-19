@@ -2,50 +2,44 @@
 
 ## Summary
 
-A PMI and ITIL certified software engineer and project manager with over 25 years of enterprise Java software development experience in leadership positions. I have a proven track record of getting things done in dynamic environments with rapidly shifting priorities. I am equally at home in technical discussions, solving complex problems in front of the whiteboard or the keyboard, and working directly with stakeholders to understand their business and their needs in order to provide them with real, lasting technology solutions. I am seeking a position that will challenge me to make use of both my broad technical and project leadership skills.
+Senior software engineer and architect with 25+ years of enterprise Java experience leading technical teams across federal and commercial sectors. I specialize in large-scale modernization - migrating legacy portfolios to Spring Boot, microservices, and Angular - and in coaching engineers to grow while getting complex projects across the finish line. PMP and ITIL certified; equally at home solving hard technical problems, designing architecture, and working directly with stakeholders.
 
 ## Skills
 
-|                                       |                                        |
-|:--------------------------------------|:---------------------------------------|
-| Software Engineering                  | Project Management                     |
-| Project Management Professional (PMP) | PMI Scheduling Professional (PMI-SP)   |
-| Team Leadership                       | Coaching and Mentoring                 |
-| Configuration Management              | Software Design and Architecture       |
-| Standards Development                 | Relationship Building                  |
-| Angular                               | Javascript/TypeScript                  |
-| Java                                  | SQL, Oracle                            |
-| REST API Design                       | Spring Ecosystem (MVC, Boot, Data JPA) |
-| Hibernate/JPA                         | Web Development                        |
-| Requirements Analysis                 | ITIL Foundation                        |
-| Servlets/JSP                          | Oracle                                 |
-| Java EE/J2EE Development              | Apache                                 |
-| Tomcat                                | JQuery                                 |
-| Bootstrap                             | JPA                                    |
-  
+|                                     |                                            |
+|:------------------------------------|:-------------------------------------------|
+| Java                                | Spring Boot / Spring MVC / Spring Data JPA |
+| Angular                             | TypeScript / JavaScript                    |
+| REST API Design                     | Microservices Architecture                 |
+| Hibernate / JPA                     | Oracle / SQL                               |
+| Java EE / Jakarta EE                | Apache Tomcat                              |
+| Thymeleaf / JSP / Servlets          | Bootstrap / jQuery                         |
+| Software Design & Architecture      | Configuration Management                   |
+| Team Leadership                     | Coaching & Mentoring                       |
+| Agile / Scrum                       | Requirements Analysis                      |
+| AI Integration & Prompt Engineering | Standards Development                      |
+
 ## Experience
 
-**Lucidus Solutions, LLC.** Baltimore, MD
+**Lucidus Solutions, LLC.**, Baltimore, MD
 
-March, 2016 -- Present
+March 2016 -- Present
 
-*Senior Software Engineer/Software Architect*
+*Senior Software Engineer / Software Architect*
 
 National Cancer Institute Center for Biomedical Informatics and Information Technology
 
--   Leading the team in exploring AI integration
--   Leveraging skills and prompt engineering to maximize results
--   Senior engineer for a portfolio of 30+ applications and services supporting grants management workflows
--   Led multiple technology refresh initiatives (Ant to Maven; Spring to Spring Boot; Hibernate to Spring Data JPA; JSP/Tiles to Thymeleaf)
--   Led a multi-stage, portfolio-wide refactoring effort to migrate applications from stove-pipe MVC to REST-based microservices with Angular front-ends.
--   Led an initiative to design and develop reusable Angular components
--   Led an initiative to migrate all portfolio from Tomcat 8/JavaEE to Tomcat 10/JakartaEE.
--   Manage and execute on multiple projects and priorities simultaneously
--   Provide technical guidance, coaching, and mentoring for junior developers.
--   Interview candidates for open positions.
--   Explore and evaluate new technologies and provide recommendations to upper management on evolving our technology stack.
+-   Senior architect and software engineer for a portfolio of 30+ applications and services supporting grants management workflows.
+-   Led team adoption of AI-assisted development: established prompt engineering practices, developed custom agent instructions for portfolio codebases, and built out AI usage standards and guidance for the team.
+-   Built an application wiki for institutional memory - capturing architecture decisions, open threads, and lessons learned - and developed custom AI agent instructions to help developers and AI agents query and maintain wiki content.
+-   Leading large-scale architectural modernizations: Bootstrap 5 and Spring Boot 3.x migrations; built a parent POM to standardize the portfolio-wide dependency catalog.
+-   Led multiple technology refresh initiatives: Ant to Maven; Spring to Spring Boot; Hibernate to Spring Data JPA; JSP/Tiles to Thymeleaf.
+-   Led a portfolio-wide refactoring effort migrating applications from stove-pipe MVC to REST-based microservices with Angular front-ends.
+-   Led the design and development of a library of reusable Angular components.
+-   Led migration of all portfolio applications from Tomcat 8 / Java EE to Tomcat 10 / Jakarta EE.
+-   Provide technical guidance, coaching, and mentoring for junior developers; interview candidates for open positions.
 
-**Medical Science & Computing (MSC),** Rockville, MD
+**Medical Science & Computing (MSC)**, Rockville, MD
 
 September 2015 -- March 2016
 
@@ -53,134 +47,91 @@ September 2015 -- March 2016
 
 National Heart, Lung, and Blood Institute
 
--   Served as configuration manager, overseeing change, configuration, and release management processes for NHLBI\'s Information Technology and Applications Center. Provided strategic oversight for CM team. Managed a team of three configuration management specialists and two communications and reporting specialists.
--   Coached SysOps engineers and government staff in application of Agile practices to support successful performance across operations and projects.
--   Provided expertise and guidance for a DevOps implementation, spanning multiple development, QA, maintenance, and support teams.
--   Served as backup to program manager to ensure seamless support to the customer in her absence.
+-   Served as configuration manager for NHLBI's Information Technology and Applications Center; managed a team of three CM specialists and two communications and reporting specialists.
+-   Coached SysOps engineers and government staff in Agile practices; provided expertise for a DevOps implementation spanning multiple development, QA, maintenance, and support teams.
+-   Served as backup to the program manager to ensure seamless customer support.
 
 **Wells Fargo Bank, NA**, Frederick, MD
 
 September 2013 -- September 2015
 
-*Web Developer/Team Lead*
+*Web Developer / Team Lead*
 
--   Primary point of contact and delivery lead for multiple teams of software developers delivering quality solutions in support of multiple maintenance and new development projects.
--   Guided teams in developing an appropriate technical approach for each project.
--   Ensured that all our development efforts remain in compliance with governance standards and policies.
--   Participated in security, risk, and business continuity planning activities.
--   Worked with external partner teams to build relationships and improve processes.
--   Worked with team members to help them define professional development plans.
--   Worked with my manager to define my own professional development plan, incorporating both personal and organizational goals.
--   Participated in focus groups and steering committees within the larger organization to promote the use of Agile principles and practices.
--   Championed and applied Agile principles and projects within my own group.
--   Lead an initiative to develop standards and incorporate software engineering best practices for the team. Shared our standards and championed their use within the larger organization as well.
--   Worked with other teams within the organization to understand their practices and standards to improve our working relationships with them.
--   Interviewed candidates for open positions on the team. Assisted new team members in getting acclimated to our team and its practices.
--   Independently developed a division-wide study group program, actively recruited members from throughout the company, and lead multiple groups on a variety of topics.
--   Provided technical guidance, coaching, and mentoring for developers transitioning from .NET to Java technologies
--   Provided software engineering expertise and technical leadership to a team building and maintaining enterprise-class software applications with Enterprise Java (Spring, Spring-MVC, Spring-JDBC and Hibernate, JavaScript, Ajax, YUI), .NET (C#, MVC3, jQuery), and Oracle technologies.
--   Lead a team of two developers, a business analyst, and support staff accepting handover of a poorly documented legacy project and incorporated it into our support model. Worked under tight timelines to deliver multiple rounds of fixes and enhancements, with only the code to guide us.
--   Actively sought out other mentors within the company (both formal and informal) to learn more about the larger organization and how to interact with it most effectively.
+-   Primary point of contact and delivery lead for multiple teams building and maintaining enterprise web applications using Spring, Hibernate, JavaScript, and Oracle technologies.
+-   Led an initiative to develop engineering standards and best practices, adopted across the larger organization.
+-   Championed Agile principles and practices within the group and through cross-organizational focus groups and steering committees.
+-   Independently developed a division-wide study group program, recruiting members from throughout the company and leading sessions on multiple topics.
+-   Provided technical guidance and mentoring for developers transitioning from .NET to Java.
+-   Led a team accepting handover of a poorly documented legacy project; delivered multiple rounds of fixes and enhancements under tight timelines, working from the code alone.
 
 **TerpSys**, Rockville, MD
 
 January 2002 -- September 2013
 
-July 2008 -- September 2013
-
-*Principal Software Engineer*
+*Principal Software Engineer* (July 2008 -- September 2013)
 
 National Cancer Institute Center for Biomedical Informatics and Information Technology
 
--   Provided project management and software engineering expertise as well as technical leadership to a cross-functional, multi-vendor team building and maintaining enterprise-class software applications with Enterprise Java (Struts, Spring, Hibernate) and Oracle technologies.
--   Managed multiple projects and priorities simultaneously, on projects ranging in size from three to more than a dozen members.
--   Successfully delivered over a dozen complex projects working both independently and as a development lead/Scrum Master on larger teams.
--   Engaged in all aspects of the software development life cycle (SDLC), with significant contributions in the areas of project management/Scrum Mastering, requirements analysis, architecture and design, and leading implementation teams.
--   Led a successful initiative to automate builds and deployments for a dozen projects using the Anthill build server, significantly reducing build and deployment errors and increasing turn-around times.
+-   Led cross-functional, multi-vendor teams building enterprise Java applications for the cancer research community; delivered 12+ complex projects as development lead and Scrum Master.
+-   Led an initiative to automate builds and deployments for a dozen projects using the Anthill build server, significantly reducing errors and improving turn-around times.
+-   Provided project management support for a large-scale migration and hosting project for NCI's cancer.gov website.
 -   Provided technical guidance, coaching, and mentoring for junior developers.
--   Provided project management support and expertise for a large scale migration and hosting project for NCI's cancer.gov website.
 
-January 2004 -- July 2008
-
-*Software Configuration Management Administrator/Project Manager*
+*Software Configuration Management Administrator / Project Manager* (January 2004 -- July 2008)
 
 National Cancer Institute Center for Biomedical Informatics and Information Technology
 
--   Managed a team of two configuration management technicians providing SCM and project management expertise in a dynamic, multi-vendor environment building Enterprise Java software for the cancer research community.
--   Provided SCM services for 80 software projects and 200 developers, as well as to the larger caBIG cancer research community.
--   Responsible for the day-to-day administration of the Center\'s CVS and Subversion repositories.
--   Developed training materials and provided first-line technical support for internal and external users of the Center's CVS and Subversion repositories, including in-depth support for branching and merging activities.
--   Provided build and deployment services using the AnthillPro build server, reducing error rates and improving turn-around times.
--   Project manager/Scrum Master for several mission critical projects to implement the GForge CDE software; roll out the Subversion version control system and migrate repositories from our older CVS server; and to develop automated build and deployment capabilities. All projects were successfully delivered on schedule and within budget.
--   Partnered with Center management and the extended development community to successfully implement change control, architectural review, release management, and technology stack rotation processes.
--   Worked within the larger systems support group to define standard operating procedures and improve our services to the development community.
--   Developed SOPs with the application support team to assist them in diagnosing and resolving support issues.
+-   Managed a team of two CM technicians providing SCM and project management services for 80 software projects and 200 developers.
+-   Administered the Center's CVS and Subversion repositories; developed training materials and provided first-line technical support, including in-depth support for branching and merging.
+-   Delivered several mission-critical projects - GForge CDE implementation, Subversion rollout, and automated build and deployment - all on schedule and within budget.
+-   Partnered with Center management to implement change control, architectural review, release management, and technology stack rotation processes.
 
-January 2002 -- January 2004
-
-*Senior Developer*
+*Senior Developer* (January 2002 -- January 2004)
 
 Internet Business Services
 
--   Key contributor to the company's effort to develop an Enterprise Java development practice.
--   Successfully led teams of up to 13 people focused on delivering projects using Java EE, Struts, JSP, JavaScript, WebSphere, JBoss, DB2, SQL Server, and .NET technologies.
--   Served as technical team lead, lead programmer, and lead designer/architect.
--   Managed multiple projects and priorities simultaneously.
--   Collaborated with project managers, graphic designers, DBAs, business analysts, and web developers to define best practices for the group.
--   Coached and mentored junior developers, and worked closely with them to develop and help them follow through on their professional development goals.
--   Championed regular "Technology Transfer Sessions" within the group to share knowledge and led many sessions myself, both within the group and for the company at large.
--   Partnered with management and other team members to design and implement a software development and project management framework that incorporated best practices from both Agile and traditional approaches.
+-   Key contributor to building the company's Enterprise Java development practice; led teams of up to 13 people delivering projects using Java EE, Struts, JSP, WebSphere, JBoss, and .NET.
+-   Championed regular Technology Transfer Sessions within the group; partnered with management to design and implement a software development and project management framework drawing on Agile and traditional approaches.
 
-**AvalonBay/Realeum Inc.,** Alexandria, VA
+**AvalonBay / Realeum Inc.**, Alexandria, VA
 
 April 1999 -- November 2001
 
 *Senior Developer*
 
--   Served as a technical team lead, lead developer, and designer in a full life-cycle software development project building a 250K LOC real estate portfolio management system using Java, J2EE, WebLogic and Oracle database technologies.
--   Provided training, coaching, and mentoring of junior developers and led technology transfer sessions as a teaching tool.
--   Successfully managed the project\'s early beta pilot phase, which required working closely with users and internal development and support staff to manage customer expectations and negotiate priorities, all while still contributing to ongoing development efforts.
+-   Technical team lead, lead developer, and architect on a full life-cycle project building a 250K LOC real estate portfolio management system using Java, J2EE, WebLogic, and Oracle.
+-   Managed the early beta pilot phase, working closely with users and internal teams to negotiate priorities and manage expectations while continuing to contribute to development.
 
-**Hogan & Hartson, L.L.P.,** Washington, DC
+**Hogan & Hartson, L.L.P.**, Washington, DC
 
-November, 1998 -- April, 1999
+November 1998 -- April 1999
 
 *Intranet Developer*
 
--   Provided full life-cycle software development expertise using VBScript, ASP, JavaScript, and Java technologies interfacing with a SQL Server database backend to support a company Intranet with 1,300 users world-wide.
--   Managed multiple projects simultaneously, working directly with stakeholders to define requirements and set expectations.
+-   Full life-cycle web development (VBScript, ASP, JavaScript, Java, SQL Server) for a company intranet supporting 1,300 users worldwide.
 
-**Bureau of Labor Statistics,** Washington, DC
+**Bureau of Labor Statistics**, Washington, DC
 
-Office of Compensation and Working Conditions
+September 1988 -- November 1998
 
-October 1996 -- November 1998
+*Labor Economist* - Office of Compensation and Working Conditions (October 1996 -- November 1998)
 
-*Labor Economist*
+-   Delivered complex analytical software systems using Java, SAS, VB/VBA, and SQL.
+-   Led a team of three developers updating and integrating legacy Access systems and porting them to Java.
 
--   Successfully delivered complex software systems using SAS, VB/VBA, Java, and SQL.
--   Successfully led a team of three developers tasked with updating and integrating a number of smaller systems implemented in Access 2.0 and porting them to Java.
+*Economist* - Division of Industrial Prices and Price Indexes (September 1988 -- October 1996)
 
-**Bureau of Labor Statistics,** Washington, DC
-
-Division of Industrial Prices and Price Indexes
-
-September, 1988 -- October 1996
-
-*Economist*
-
--   Served as an Industry Analyst for the Producer Price Index.
--   Implemented multiple projects using the SAS statistical language.
+-   Served as Industry Analyst for the Producer Price Index; implemented multiple analytical projects in SAS.
 
 ## Education
 
-**University of Maryland, University College,** College Park, MD
+**University of Maryland, University College**, College Park, MD
 
 2002 -- 2006
 
-Master of Software Engineering, awarded August, 2006
+Master of Software Engineering, awarded August 2006
 
-**University of Michigan,** Ann Arbor, MI
+**University of Michigan**, Ann Arbor, MI
 
 1985 -- 1988
 
@@ -190,10 +141,9 @@ BA Economics, awarded March 1988
 
 ## Professional Certifications
 
--   ITIL® Foundation (November, 2012)
--   Project Management Institute Scheduling Professional (PMI-SP) (August, 2010)
--   Sun Certified Java Programmer, Java 6 Platform (October, 2009)
--   Project Management Professional (PMP) (June, 2007)
+-   ITIL® Foundation (November 2012)
+-   PMI Scheduling Professional (PMI-SP) (August 2010)
+-   Project Management Professional (PMP) (June 2007)
 
 ## Hobby Languages
 
