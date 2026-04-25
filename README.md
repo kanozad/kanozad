@@ -29,7 +29,7 @@ March 2016 -- Present
 
 National Cancer Institute Center for Biomedical Informatics and Information Technology
 
--   Senior architect and software engineer for a portfolio of 30+ applications and services supporting grants management workflows.
+-   Senior architect and software engineer for a portfolio of 30+ applications and services supporting cancer research grants management workflows.
 -   Led team adoption of AI-assisted development: established prompt engineering practices, developed custom agent instructions for portfolio codebases, and built out AI usage standards and guidance for the team.
 -   Built an application wiki for institutional memory - capturing architecture decisions, open threads, and lessons learned - and developed custom AI agent instructions to help developers and AI agents query and maintain wiki content.
 -   Leading large-scale architectural modernizations: Bootstrap 5 and Spring Boot 3.x migrations; built a parent POM to standardize the portfolio-wide dependency catalog.
