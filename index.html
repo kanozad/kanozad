@@ -1,398 +1,503 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Douglas M. Kanoza — Senior Software Architect</title>
-  <meta name="description" content="Senior Software Engineer and Architect with 25+ years of enterprise Java experience. PMP and ITIL certified." />
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Douglas M. Kanoza — Senior Software Architect</title>
+        <meta
+            name="description"
+            content="Senior Software Engineer and Architect with 25+ years of enterprise Java experience. PMP and ITIL certified."
+        />
 
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+        <!-- Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap"
+            rel="stylesheet"
+        />
 
-  <link rel="stylesheet" href="style.css" />
-</head>
+        <link rel="stylesheet" href="style.css" />
+    </head>
 
-<body>
+    <body>
+        <!-- ── Navigation ── -->
+        <nav>
+            <span class="nav-brand">dmk</span>
+            <div class="nav-links">
+                <a href="#about">About</a>
+                <a href="#skills">Skills</a>
+                <a href="#experience">Experience</a>
+                <a href="#education">Education</a>
+                <a href="#now">Now</a>
+                <button id="theme-toggle" title="Toggle theme">☀</button>
+            </div>
+        </nav>
 
-  <!-- ── Navigation ── -->
-  <nav>
-    <span class="nav-brand">dmk</span>
-    <div class="nav-links">
-      <a href="#about">About</a>
-      <a href="#skills">Skills</a>
-      <a href="#experience">Experience</a>
-      <a href="#education">Education</a>
-      <a href="#now">Now</a>
-      <button id="theme-toggle" title="Toggle theme">☀</button>
-    </div>
-  </nav>
+        <!-- ── Hero ── -->
+        <section id="hero">
+            <p class="hero-eyebrow">// hello, world</p>
+            <h1>Douglas M. Kanoza</h1>
+            <p class="hero-tagline"><span class="typewriter-text"></span><span class="cursor"></span></p>
+            <div class="hero-ctas">
+                <a href="#experience" class="btn btn-primary">View Resume</a>
+                <a href="https://github.com/kanozad" class="btn btn-outline" target="_blank" rel="noopener">GitHub</a>
+            </div>
+        </section>
 
-  <!-- ── Hero ── -->
-  <section id="hero">
-    <p class="hero-eyebrow">// hello, world</p>
-    <h1>Douglas M. Kanoza</h1>
-    <p class="hero-tagline">
-      <span class="typewriter-text"></span><span class="cursor"></span>
-    </p>
-    <div class="hero-ctas">
-      <a href="#experience" class="btn btn-primary">View Resume</a>
-      <a href="https://github.com/kanozad" class="btn btn-outline" target="_blank" rel="noopener">GitHub</a>
-    </div>
-  </section>
+        <!-- ── About ── -->
+        <section id="about">
+            <p class="section-label">// about</p>
+            <h2 class="section-title">About Me</h2>
+            <p>
+                Senior software engineer and architect with 25+ years of enterprise Java experience leading technical
+                teams across federal and commercial sectors. My work centers on large-scale modernization — migrating
+                legacy portfolios to Spring Boot, microservices, and Angular — while building the team cultures and
+                engineering practices that make those changes stick.
+            </p>
+            <p>
+                I'm equally comfortable solving hard technical problems, designing architecture, and working directly
+                with stakeholders to translate business needs into durable solutions. PMP and ITIL certified; currently
+                exploring how AI-assisted development can accelerate and improve the work my teams do every day.
+            </p>
+        </section>
 
-  <!-- ── About ── -->
-  <section id="about">
-    <p class="section-label">// about</p>
-    <h2 class="section-title">About Me</h2>
-    <p>
-      Senior software engineer and architect with 25+ years of enterprise Java experience
-      leading technical teams across federal and commercial sectors. My work centers on
-      large-scale modernization — migrating legacy portfolios to Spring Boot, microservices,
-      and Angular — while building the team cultures and engineering practices that make
-      those changes stick.
-    </p>
-    <p>
-      I'm equally comfortable solving hard technical problems, designing architecture, and
-      working directly with stakeholders to translate business needs into durable solutions.
-      PMP and ITIL certified; currently exploring how AI-assisted development can accelerate
-      and improve the work my teams do every day.
-    </p>
-  </section>
+        <!-- ── Skills ── -->
+        <section id="skills">
+            <p class="section-label">// skills</p>
+            <h2 class="section-title">Skills</h2>
 
-  <!-- ── Skills ── -->
-  <section id="skills">
-    <p class="section-label">// skills</p>
-    <h2 class="section-title">Skills</h2>
+            <div class="skill-group">
+                <p class="skill-group-name">Core Platform</p>
+                <div class="skill-tags">
+                    <span class="tag">Java</span>
+                    <span class="tag">Spring Boot</span>
+                    <span class="tag">Spring MVC</span>
+                    <span class="tag">Spring Data JPA</span>
+                    <span class="tag">Angular</span>
+                    <span class="tag">TypeScript</span>
+                    <span class="tag">JavaScript</span>
+                </div>
+            </div>
 
-    <div class="skill-group">
-      <p class="skill-group-name">Core Platform</p>
-      <div class="skill-tags">
-        <span class="tag">Java</span>
-        <span class="tag">Spring Boot</span>
-        <span class="tag">Spring MVC</span>
-        <span class="tag">Spring Data JPA</span>
-        <span class="tag">Angular</span>
-        <span class="tag">TypeScript</span>
-        <span class="tag">JavaScript</span>
-      </div>
-    </div>
+            <div class="skill-group">
+                <p class="skill-group-name">Architecture &amp; Process</p>
+                <div class="skill-tags">
+                    <span class="tag">REST API Design</span>
+                    <span class="tag">Microservices Architecture</span>
+                    <span class="tag">Software Design &amp; Architecture</span>
+                    <span class="tag">Configuration Management</span>
+                    <span class="tag">Agile / Scrum</span>
+                    <span class="tag">Requirements Analysis</span>
+                </div>
+            </div>
 
-    <div class="skill-group">
-      <p class="skill-group-name">Architecture &amp; Process</p>
-      <div class="skill-tags">
-        <span class="tag">REST API Design</span>
-        <span class="tag">Microservices Architecture</span>
-        <span class="tag">Software Design &amp; Architecture</span>
-        <span class="tag">Configuration Management</span>
-        <span class="tag">Agile / Scrum</span>
-        <span class="tag">Requirements Analysis</span>
-      </div>
-    </div>
+            <div class="skill-group">
+                <p class="skill-group-name">Leadership &amp; Practice</p>
+                <div class="skill-tags">
+                    <span class="tag">Team Leadership</span>
+                    <span class="tag">Coaching &amp; Mentoring</span>
+                    <span class="tag">AI Integration &amp; Prompt Engineering</span>
+                    <span class="tag">Standards Development</span>
+                </div>
+            </div>
 
-    <div class="skill-group">
-      <p class="skill-group-name">Leadership &amp; Practice</p>
-      <div class="skill-tags">
-        <span class="tag">Team Leadership</span>
-        <span class="tag">Coaching &amp; Mentoring</span>
-        <span class="tag">AI Integration &amp; Prompt Engineering</span>
-        <span class="tag">Standards Development</span>
-      </div>
-    </div>
+            <div class="skill-group">
+                <p class="skill-group-name">Data &amp; Integration</p>
+                <div class="skill-tags">
+                    <span class="tag">Hibernate / JPA</span>
+                    <span class="tag">Oracle</span>
+                    <span class="tag">SQL</span>
+                    <span class="tag">Java EE / Jakarta EE</span>
+                </div>
+            </div>
 
-    <div class="skill-group">
-      <p class="skill-group-name">Data &amp; Integration</p>
-      <div class="skill-tags">
-        <span class="tag">Hibernate / JPA</span>
-        <span class="tag">Oracle</span>
-        <span class="tag">SQL</span>
-        <span class="tag">Java EE / Jakarta EE</span>
-      </div>
-    </div>
+            <div class="skill-group">
+                <p class="skill-group-name">Frontend &amp; Web</p>
+                <div class="skill-tags">
+                    <span class="tag">Bootstrap</span>
+                    <span class="tag">jQuery</span>
+                    <span class="tag">Thymeleaf</span>
+                    <span class="tag">JSP / Servlets</span>
+                    <span class="tag">Apache Tomcat</span>
+                </div>
+            </div>
 
-    <div class="skill-group">
-      <p class="skill-group-name">Frontend &amp; Web</p>
-      <div class="skill-tags">
-        <span class="tag">Bootstrap</span>
-        <span class="tag">jQuery</span>
-        <span class="tag">Thymeleaf</span>
-        <span class="tag">JSP / Servlets</span>
-        <span class="tag">Apache Tomcat</span>
-      </div>
-    </div>
+            <div class="skill-group exploring">
+                <p class="skill-group-name">Currently Exploring</p>
+                <div class="skill-tags">
+                    <span class="tag">Rust</span>
+                    <span class="tag">Go</span>
+                    <span class="tag">Python</span>
+                    <span class="tag">PowerShell</span>
+                </div>
+            </div>
+        </section>
 
-    <div class="skill-group exploring">
-      <p class="skill-group-name">Currently Exploring</p>
-      <div class="skill-tags">
-        <span class="tag">Rust</span>
-        <span class="tag">Go</span>
-        <span class="tag">Python</span>
-        <span class="tag">PowerShell</span>
-      </div>
-    </div>
-  </section>
+        <!-- ── Experience ── -->
+        <section id="experience">
+            <p class="section-label">// experience</p>
+            <h2 class="section-title">Experience</h2>
 
-  <!-- ── Experience ── -->
-  <section id="experience">
-    <p class="section-label">// experience</p>
-    <h2 class="section-title">Experience</h2>
+            <div class="timeline">
+                <!-- Lucidus Solutions -->
+                <div class="timeline-item">
+                    <div class="timeline-card">
+                        <div class="timeline-header">
+                            <span class="timeline-company">Lucidus Solutions, LLC</span>
+                            <span class="timeline-dates">Mar 2016 — Present</span>
+                        </div>
+                        <p class="timeline-role">Senior Software Engineer / Software Architect</p>
+                        <p class="timeline-client">
+                            National Cancer Institute — Center for Biomedical Informatics and Information Technology
+                        </p>
+                        <p class="timeline-headline">
+                            Senior architect leading modernization and AI adoption across a portfolio of 30+ NCI grants
+                            management applications.
+                        </p>
+                        <div class="timeline-tech">
+                            <span class="tech-tag">Java</span>
+                            <span class="tech-tag">Spring Boot 3</span>
+                            <span class="tech-tag">Angular</span>
+                            <span class="tech-tag">Thymeleaf</span>
+                            <span class="tech-tag">Spring Data JPA</span>
+                            <span class="tech-tag">Jakarta EE</span>
+                            <span class="tech-tag">Tomcat 10</span>
+                            <span class="tech-tag">Bootstrap 5</span>
+                            <span class="tech-tag">Oracle</span>
+                            <span class="tech-tag">AI / Prompt Engineering</span>
+                        </div>
+                        <button class="toggle-btn" data-toggle="lucidus-bullets">+ show more</button>
+                        <ul class="timeline-bullets" id="lucidus-bullets">
+                            <li>
+                                Led team adoption of AI-assisted development: established prompt engineering practices,
+                                developed custom agent instructions for portfolio codebases, and built out AI usage
+                                standards and guidance for the team.
+                            </li>
+                            <li>
+                                Built an application wiki for institutional memory — capturing architecture decisions,
+                                open threads, and lessons learned — and developed custom AI agent instructions to help
+                                developers and AI agents query and maintain wiki content.
+                            </li>
+                            <li>
+                                Leading large-scale architectural modernizations: Bootstrap 5 and Spring Boot 3.x
+                                migrations; built a parent POM to standardize the portfolio-wide dependency catalog.
+                            </li>
+                            <li>
+                                Led multiple technology refresh initiatives: Ant to Maven; Spring to Spring Boot;
+                                Hibernate to Spring Data JPA; JSP/Tiles to Thymeleaf.
+                            </li>
+                            <li>
+                                Led a portfolio-wide refactoring effort migrating applications from stove-pipe MVC to
+                                REST-based microservices with Angular front-ends.
+                            </li>
+                            <li>Led the design and development of a library of reusable Angular components.</li>
+                            <li>
+                                Led migration of all portfolio applications from Tomcat 8 / Java EE to Tomcat 10 /
+                                Jakarta EE.
+                            </li>
+                            <li>
+                                Provide technical guidance, coaching, and mentoring for junior developers; interview
+                                candidates for open positions.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
 
-    <div class="timeline">
+                <!-- MSC -->
+                <div class="timeline-item">
+                    <div class="timeline-card">
+                        <div class="timeline-header">
+                            <span class="timeline-company">Medical Science &amp; Computing (MSC)</span>
+                            <span class="timeline-dates">Sep 2015 — Mar 2016</span>
+                        </div>
+                        <p class="timeline-role">Deputy Program Manager</p>
+                        <p class="timeline-client">National Heart, Lung, and Blood Institute</p>
+                        <p class="timeline-headline">
+                            Strategic oversight of configuration and release management for NHLBI's IT and Applications
+                            Center.
+                        </p>
+                        <div class="timeline-tech">
+                            <span class="tech-tag">Agile</span>
+                            <span class="tech-tag">DevOps</span>
+                            <span class="tech-tag">Configuration Management</span>
+                        </div>
+                        <button class="toggle-btn" data-toggle="msc-bullets">+ show more</button>
+                        <ul class="timeline-bullets" id="msc-bullets">
+                            <li>
+                                Served as configuration manager for NHLBI's Information Technology and Applications
+                                Center; managed a team of three CM specialists and two communications and reporting
+                                specialists.
+                            </li>
+                            <li>
+                                Coached SysOps engineers and government staff in Agile practices; provided expertise for
+                                a DevOps implementation spanning multiple development, QA, maintenance, and support
+                                teams.
+                            </li>
+                            <li>Served as backup to the program manager to ensure seamless customer support.</li>
+                        </ul>
+                    </div>
+                </div>
 
-      <!-- Lucidus Solutions -->
-      <div class="timeline-item">
-        <div class="timeline-card">
-          <div class="timeline-header">
-            <span class="timeline-company">Lucidus Solutions, LLC</span>
-            <span class="timeline-dates">Mar 2016 — Present</span>
-          </div>
-          <p class="timeline-role">Senior Software Engineer / Software Architect</p>
-          <p class="timeline-client">National Cancer Institute — Center for Biomedical Informatics and Information Technology</p>
-          <p class="timeline-headline">Senior architect leading modernization and AI adoption across a portfolio of 30+ NCI grants management applications.</p>
-          <div class="timeline-tech">
-            <span class="tech-tag">Java</span>
-            <span class="tech-tag">Spring Boot 3</span>
-            <span class="tech-tag">Angular</span>
-            <span class="tech-tag">Thymeleaf</span>
-            <span class="tech-tag">Spring Data JPA</span>
-            <span class="tech-tag">Jakarta EE</span>
-            <span class="tech-tag">Tomcat 10</span>
-            <span class="tech-tag">Bootstrap 5</span>
-            <span class="tech-tag">Oracle</span>
-            <span class="tech-tag">AI / Prompt Engineering</span>
-          </div>
-          <button class="toggle-btn" data-toggle="lucidus-bullets">+ show more</button>
-          <ul class="timeline-bullets" id="lucidus-bullets">
-            <li>Led team adoption of AI-assisted development: established prompt engineering practices, developed custom agent instructions for portfolio codebases, and built out AI usage standards and guidance for the team.</li>
-            <li>Built an application wiki for institutional memory — capturing architecture decisions, open threads, and lessons learned — and developed custom AI agent instructions to help developers and AI agents query and maintain wiki content.</li>
-            <li>Leading large-scale architectural modernizations: Bootstrap 5 and Spring Boot 3.x migrations; built a parent POM to standardize the portfolio-wide dependency catalog.</li>
-            <li>Led multiple technology refresh initiatives: Ant to Maven; Spring to Spring Boot; Hibernate to Spring Data JPA; JSP/Tiles to Thymeleaf.</li>
-            <li>Led a portfolio-wide refactoring effort migrating applications from stove-pipe MVC to REST-based microservices with Angular front-ends.</li>
-            <li>Led the design and development of a library of reusable Angular components.</li>
-            <li>Led migration of all portfolio applications from Tomcat 8 / Java EE to Tomcat 10 / Jakarta EE.</li>
-            <li>Provide technical guidance, coaching, and mentoring for junior developers; interview candidates for open positions.</li>
-          </ul>
-        </div>
-      </div>
+                <!-- Wells Fargo -->
+                <div class="timeline-item">
+                    <div class="timeline-card">
+                        <div class="timeline-header">
+                            <span class="timeline-company">Wells Fargo Bank, NA</span>
+                            <span class="timeline-dates">Sep 2013 — Sep 2015</span>
+                        </div>
+                        <p class="timeline-role">Web Developer / Team Lead — Frederick, MD</p>
+                        <p class="timeline-headline">
+                            Delivery lead for multiple teams building and maintaining enterprise web applications.
+                        </p>
+                        <div class="timeline-tech">
+                            <span class="tech-tag">Java</span>
+                            <span class="tech-tag">Spring MVC</span>
+                            <span class="tech-tag">Spring JDBC</span>
+                            <span class="tech-tag">Hibernate</span>
+                            <span class="tech-tag">JavaScript</span>
+                            <span class="tech-tag">Oracle</span>
+                            <span class="tech-tag">.NET / C#</span>
+                            <span class="tech-tag">jQuery</span>
+                        </div>
+                        <button class="toggle-btn" data-toggle="wf-bullets">+ show more</button>
+                        <ul class="timeline-bullets" id="wf-bullets">
+                            <li>
+                                Primary point of contact and delivery lead for multiple teams building and maintaining
+                                enterprise web applications using Spring, Hibernate, JavaScript, and Oracle
+                                technologies.
+                            </li>
+                            <li>
+                                Led an initiative to develop engineering standards and best practices, adopted across
+                                the larger organization.
+                            </li>
+                            <li>
+                                Championed Agile principles and practices within the group and through
+                                cross-organizational focus groups and steering committees.
+                            </li>
+                            <li>
+                                Independently developed a division-wide study group program, recruiting members from
+                                throughout the company and leading sessions on multiple topics.
+                            </li>
+                            <li>
+                                Provided technical guidance and mentoring for developers transitioning from .NET to
+                                Java.
+                            </li>
+                            <li>
+                                Led a team accepting handover of a poorly documented legacy project; delivered multiple
+                                rounds of fixes and enhancements under tight timelines, working from the code alone.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
 
-      <!-- MSC -->
-      <div class="timeline-item">
-        <div class="timeline-card">
-          <div class="timeline-header">
-            <span class="timeline-company">Medical Science &amp; Computing (MSC)</span>
-            <span class="timeline-dates">Sep 2015 — Mar 2016</span>
-          </div>
-          <p class="timeline-role">Deputy Program Manager</p>
-          <p class="timeline-client">National Heart, Lung, and Blood Institute</p>
-          <p class="timeline-headline">Strategic oversight of configuration and release management for NHLBI's IT and Applications Center.</p>
-          <div class="timeline-tech">
-            <span class="tech-tag">Agile</span>
-            <span class="tech-tag">DevOps</span>
-            <span class="tech-tag">Configuration Management</span>
-          </div>
-          <button class="toggle-btn" data-toggle="msc-bullets">+ show more</button>
-          <ul class="timeline-bullets" id="msc-bullets">
-            <li>Served as configuration manager for NHLBI's Information Technology and Applications Center; managed a team of three CM specialists and two communications and reporting specialists.</li>
-            <li>Coached SysOps engineers and government staff in Agile practices; provided expertise for a DevOps implementation spanning multiple development, QA, maintenance, and support teams.</li>
-            <li>Served as backup to the program manager to ensure seamless customer support.</li>
-          </ul>
-        </div>
-      </div>
+                <!-- TerpSys -->
+                <div class="timeline-item">
+                    <div class="timeline-card">
+                        <div class="timeline-header">
+                            <span class="timeline-company">TerpSys</span>
+                            <span class="timeline-dates">Jan 2002 — Sep 2013</span>
+                        </div>
+                        <p class="timeline-role">Principal Software Engineer / SCM Administrator / Senior Developer</p>
+                        <p class="timeline-client">
+                            National Cancer Institute — Center for Biomedical Informatics and Information Technology
+                        </p>
+                        <p class="timeline-headline">
+                            11-year progression from senior developer to principal engineer; delivered 12+ complex
+                            projects.
+                        </p>
+                        <div class="timeline-tech">
+                            <span class="tech-tag">Java EE</span>
+                            <span class="tech-tag">Struts</span>
+                            <span class="tech-tag">Spring</span>
+                            <span class="tech-tag">Hibernate</span>
+                            <span class="tech-tag">Oracle</span>
+                            <span class="tech-tag">Subversion</span>
+                            <span class="tech-tag">AnthillPro</span>
+                        </div>
+                        <button class="toggle-btn" data-toggle="terpsys-bullets">+ show more</button>
+                        <ul class="timeline-bullets" id="terpsys-bullets">
+                            <li>
+                                <strong>Principal Software Engineer (Jul 2008 – Sep 2013):</strong> Led
+                                cross-functional, multi-vendor teams building enterprise Java applications for the
+                                cancer research community; delivered 12+ complex projects as development lead and Scrum
+                                Master.
+                            </li>
+                            <li>
+                                Led an initiative to automate builds and deployments for a dozen projects using the
+                                Anthill build server, significantly reducing errors and improving turn-around times.
+                            </li>
+                            <li>
+                                Provided project management support for a large-scale migration and hosting project for
+                                NCI's cancer.gov website.
+                            </li>
+                            <li>Provided technical guidance, coaching, and mentoring for junior developers.</li>
+                            <li>
+                                <strong>SCM Administrator / PM (Jan 2004 – Jul 2008):</strong> Managed a team of two CM
+                                technicians providing SCM and project management services for 80 software projects and
+                                200 developers.
+                            </li>
+                            <li>
+                                Administered the Center's CVS and Subversion repositories; developed training materials
+                                and provided first-line technical support, including in-depth support for branching and
+                                merging.
+                            </li>
+                            <li>
+                                Delivered several mission-critical projects — GForge CDE implementation, Subversion
+                                rollout, and automated build and deployment — all on schedule and within budget.
+                            </li>
+                            <li>
+                                Partnered with Center management to implement change control, architectural review,
+                                release management, and technology stack rotation processes.
+                            </li>
+                            <li>
+                                <strong>Senior Developer (Jan 2002 – Jan 2004):</strong> Key contributor to building the
+                                company's Enterprise Java development practice; led teams of up to 13 people delivering
+                                projects using Java EE, Struts, JSP, WebSphere, JBoss, and .NET.
+                            </li>
+                            <li>
+                                Championed regular Technology Transfer Sessions within the group; partnered with
+                                management to design and implement a software development and project management
+                                framework drawing on Agile and traditional approaches.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
 
-      <!-- Wells Fargo -->
-      <div class="timeline-item">
-        <div class="timeline-card">
-          <div class="timeline-header">
-            <span class="timeline-company">Wells Fargo Bank, NA</span>
-            <span class="timeline-dates">Sep 2013 — Sep 2015</span>
-          </div>
-          <p class="timeline-role">Web Developer / Team Lead — Frederick, MD</p>
-          <p class="timeline-headline">Delivery lead for multiple teams building and maintaining enterprise web applications.</p>
-          <div class="timeline-tech">
-            <span class="tech-tag">Java</span>
-            <span class="tech-tag">Spring MVC</span>
-            <span class="tech-tag">Spring JDBC</span>
-            <span class="tech-tag">Hibernate</span>
-            <span class="tech-tag">JavaScript</span>
-            <span class="tech-tag">Oracle</span>
-            <span class="tech-tag">.NET / C#</span>
-            <span class="tech-tag">jQuery</span>
-          </div>
-          <button class="toggle-btn" data-toggle="wf-bullets">+ show more</button>
-          <ul class="timeline-bullets" id="wf-bullets">
-            <li>Primary point of contact and delivery lead for multiple teams building and maintaining enterprise web applications using Spring, Hibernate, JavaScript, and Oracle technologies.</li>
-            <li>Led an initiative to develop engineering standards and best practices, adopted across the larger organization.</li>
-            <li>Championed Agile principles and practices within the group and through cross-organizational focus groups and steering committees.</li>
-            <li>Independently developed a division-wide study group program, recruiting members from throughout the company and leading sessions on multiple topics.</li>
-            <li>Provided technical guidance and mentoring for developers transitioning from .NET to Java.</li>
-            <li>Led a team accepting handover of a poorly documented legacy project; delivered multiple rounds of fixes and enhancements under tight timelines, working from the code alone.</li>
-          </ul>
-        </div>
-      </div>
+                <!-- AvalonBay -->
+                <div class="timeline-item">
+                    <div class="timeline-card">
+                        <div class="timeline-header">
+                            <span class="timeline-company">AvalonBay / Realeum Inc.</span>
+                            <span class="timeline-dates">Apr 1999 — Nov 2001</span>
+                        </div>
+                        <p class="timeline-role">Senior Developer — Alexandria, VA</p>
+                        <p class="timeline-headline">
+                            Technical team lead, lead developer, and architect on a full life-cycle project building a
+                            250K LOC real estate portfolio management system using Java, J2EE, WebLogic, and Oracle.
+                        </p>
+                        <div class="timeline-tech">
+                            <span class="tech-tag">Java</span>
+                            <span class="tech-tag">J2EE</span>
+                            <span class="tech-tag">WebLogic</span>
+                            <span class="tech-tag">Oracle</span>
+                        </div>
+                    </div>
+                </div>
 
-      <!-- TerpSys -->
-      <div class="timeline-item">
-        <div class="timeline-card">
-          <div class="timeline-header">
-            <span class="timeline-company">TerpSys</span>
-            <span class="timeline-dates">Jan 2002 — Sep 2013</span>
-          </div>
-          <p class="timeline-role">Principal Software Engineer / SCM Administrator / Senior Developer</p>
-          <p class="timeline-client">National Cancer Institute — Center for Biomedical Informatics and Information Technology</p>
-          <p class="timeline-headline">11-year progression from senior developer to principal engineer; delivered 12+ complex projects.</p>
-          <div class="timeline-tech">
-            <span class="tech-tag">Java EE</span>
-            <span class="tech-tag">Struts</span>
-            <span class="tech-tag">Spring</span>
-            <span class="tech-tag">Hibernate</span>
-            <span class="tech-tag">Oracle</span>
-            <span class="tech-tag">Subversion</span>
-            <span class="tech-tag">AnthillPro</span>
-          </div>
-          <button class="toggle-btn" data-toggle="terpsys-bullets">+ show more</button>
-          <ul class="timeline-bullets" id="terpsys-bullets">
-            <li><strong>Principal Software Engineer (Jul 2008 – Sep 2013):</strong> Led cross-functional, multi-vendor teams building enterprise Java applications for the cancer research community; delivered 12+ complex projects as development lead and Scrum Master.</li>
-            <li>Led an initiative to automate builds and deployments for a dozen projects using the Anthill build server, significantly reducing errors and improving turn-around times.</li>
-            <li>Provided project management support for a large-scale migration and hosting project for NCI's cancer.gov website.</li>
-            <li>Provided technical guidance, coaching, and mentoring for junior developers.</li>
-            <li><strong>SCM Administrator / PM (Jan 2004 – Jul 2008):</strong> Managed a team of two CM technicians providing SCM and project management services for 80 software projects and 200 developers.</li>
-            <li>Administered the Center's CVS and Subversion repositories; developed training materials and provided first-line technical support, including in-depth support for branching and merging.</li>
-            <li>Delivered several mission-critical projects — GForge CDE implementation, Subversion rollout, and automated build and deployment — all on schedule and within budget.</li>
-            <li>Partnered with Center management to implement change control, architectural review, release management, and technology stack rotation processes.</li>
-            <li><strong>Senior Developer (Jan 2002 – Jan 2004):</strong> Key contributor to building the company's Enterprise Java development practice; led teams of up to 13 people delivering projects using Java EE, Struts, JSP, WebSphere, JBoss, and .NET.</li>
-            <li>Championed regular Technology Transfer Sessions within the group; partnered with management to design and implement a software development and project management framework drawing on Agile and traditional approaches.</li>
-          </ul>
-        </div>
-      </div>
+                <!-- Hogan & Hartson -->
+                <div class="timeline-item">
+                    <div class="timeline-card">
+                        <div class="timeline-header">
+                            <span class="timeline-company">Hogan &amp; Hartson, L.L.P.</span>
+                            <span class="timeline-dates">Nov 1998 — Apr 1999</span>
+                        </div>
+                        <p class="timeline-role">Intranet Developer — Washington, DC</p>
+                        <p class="timeline-headline">
+                            Full life-cycle web development for a company intranet serving 1,300 users worldwide.
+                        </p>
+                        <div class="timeline-tech">
+                            <span class="tech-tag">ASP</span>
+                            <span class="tech-tag">VBScript</span>
+                            <span class="tech-tag">JavaScript</span>
+                            <span class="tech-tag">Java</span>
+                            <span class="tech-tag">SQL Server</span>
+                        </div>
+                    </div>
+                </div>
 
-      <!-- AvalonBay -->
-      <div class="timeline-item">
-        <div class="timeline-card">
-          <div class="timeline-header">
-            <span class="timeline-company">AvalonBay / Realeum Inc.</span>
-            <span class="timeline-dates">Apr 1999 — Nov 2001</span>
-          </div>
-          <p class="timeline-role">Senior Developer — Alexandria, VA</p>
-          <p class="timeline-headline">Technical team lead, lead developer, and architect on a full life-cycle project building a 250K LOC real estate portfolio management system using Java, J2EE, WebLogic, and Oracle.</p>
-          <div class="timeline-tech">
-            <span class="tech-tag">Java</span>
-            <span class="tech-tag">J2EE</span>
-            <span class="tech-tag">WebLogic</span>
-            <span class="tech-tag">Oracle</span>
-          </div>
-        </div>
-      </div>
+                <!-- BLS — Labor Economist -->
+                <div class="timeline-item">
+                    <div class="timeline-card">
+                        <div class="timeline-header">
+                            <span class="timeline-company">Bureau of Labor Statistics</span>
+                            <span class="timeline-dates">Sep 1988 — Nov 1998</span>
+                        </div>
+                        <p class="timeline-role">Labor Economist / Economist — Washington, DC</p>
+                        <p class="timeline-headline">
+                            Economist and Labor Economist spanning two divisions; delivered analytical software systems
+                            and led a team porting legacy Access applications to Java.
+                        </p>
+                        <div class="timeline-tech">
+                            <span class="tech-tag">Java</span>
+                            <span class="tech-tag">SAS</span>
+                            <span class="tech-tag">VB / VBA</span>
+                            <span class="tech-tag">SQL</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- /.timeline -->
+        </section>
 
-      <!-- Hogan & Hartson -->
-      <div class="timeline-item">
-        <div class="timeline-card">
-          <div class="timeline-header">
-            <span class="timeline-company">Hogan &amp; Hartson, L.L.P.</span>
-            <span class="timeline-dates">Nov 1998 — Apr 1999</span>
-          </div>
-          <p class="timeline-role">Intranet Developer — Washington, DC</p>
-          <p class="timeline-headline">Full life-cycle web development for a company intranet serving 1,300 users worldwide.</p>
-          <div class="timeline-tech">
-            <span class="tech-tag">ASP</span>
-            <span class="tech-tag">VBScript</span>
-            <span class="tech-tag">JavaScript</span>
-            <span class="tech-tag">Java</span>
-            <span class="tech-tag">SQL Server</span>
-          </div>
-        </div>
-      </div>
+        <!-- ── Education ── -->
+        <section id="education">
+            <p class="section-label">// education &amp; certifications</p>
+            <h2 class="section-title">Education &amp; Certifications</h2>
 
-      <!-- BLS — Labor Economist -->
-      <div class="timeline-item">
-        <div class="timeline-card">
-          <div class="timeline-header">
-            <span class="timeline-company">Bureau of Labor Statistics</span>
-            <span class="timeline-dates">Sep 1988 — Nov 1998</span>
-          </div>
-          <p class="timeline-role">Labor Economist / Economist — Washington, DC</p>
-          <p class="timeline-headline">Economist and Labor Economist spanning two divisions; delivered analytical software systems and led a team porting legacy Access applications to Java.</p>
-          <div class="timeline-tech">
-            <span class="tech-tag">Java</span>
-            <span class="tech-tag">SAS</span>
-            <span class="tech-tag">VB / VBA</span>
-            <span class="tech-tag">SQL</span>
-          </div>
-        </div>
-      </div>
+            <div class="edu-grid">
+                <div class="edu-card">
+                    <p class="edu-degree">Master of Software Engineering</p>
+                    <p class="edu-school">University of Maryland, University College</p>
+                    <p class="edu-year">Awarded August 2006</p>
+                </div>
+                <div class="edu-card">
+                    <p class="edu-degree">BA Economics</p>
+                    <p class="edu-school">University of Michigan, Ann Arbor</p>
+                    <p class="edu-year">Awarded March 1988</p>
+                </div>
+                <div class="cert-card">
+                    <p class="cert-name">Project Management Professional (PMP)</p>
+                    <p class="cert-date">Project Management Institute — June 2007</p>
+                </div>
+                <div class="cert-card">
+                    <p class="cert-name">PMI Scheduling Professional (PMI-SP)</p>
+                    <p class="cert-date">Project Management Institute — August 2010</p>
+                </div>
+                <div class="cert-card">
+                    <p class="cert-name">ITIL® Foundation</p>
+                    <p class="cert-date">November 2012</p>
+                </div>
+            </div>
+        </section>
 
-    </div><!-- /.timeline -->
-  </section>
+        <!-- ── Now ── -->
+        <section id="now">
+            <p class="section-label">// now</p>
+            <h2 class="section-title">Currently Exploring</h2>
+            <p class="intro">
+                I believe staying curious is the most important trait an engineer can have. Outside of work I'm
+                exploring these languages for personal projects and to keep my mental model of computing broad.
+            </p>
+            <div class="now-grid">
+                <div class="now-card">
+                    <p class="now-lang">Rust</p>
+                    <p class="now-desc">Systems programming, ownership model, memory safety without GC.</p>
+                </div>
+                <div class="now-card">
+                    <p class="now-lang">Go</p>
+                    <p class="now-desc">CLI tooling, concurrency patterns, fast compilation.</p>
+                </div>
+                <div class="now-card">
+                    <p class="now-lang">Python</p>
+                    <p class="now-desc">Data scripting, automation, exploring the ML ecosystem.</p>
+                </div>
+                <div class="now-card">
+                    <p class="now-lang">PowerShell</p>
+                    <p class="now-desc">Windows automation, pipeline scripting, DevOps tooling.</p>
+                </div>
+            </div>
+        </section>
 
-  <!-- ── Education ── -->
-  <section id="education">
-    <p class="section-label">// education &amp; certifications</p>
-    <h2 class="section-title">Education &amp; Certifications</h2>
+        <!-- ── Footer ── -->
+        <footer>
+            <div class="footer-links">
+                <a href="https://github.com/kanozad" target="_blank" rel="noopener">GitHub</a>
+                <a href="https://www.linkedin.com/in/dougkanoza" target="_blank" rel="noopener">LinkedIn</a>
+            </div>
+            <span class="footer-copy">Douglas M. Kanoza &mdash; Frederick, MD</span>
+        </footer>
 
-    <div class="edu-grid">
-      <div class="edu-card">
-        <p class="edu-degree">Master of Software Engineering</p>
-        <p class="edu-school">University of Maryland, University College</p>
-        <p class="edu-year">Awarded August 2006</p>
-      </div>
-      <div class="edu-card">
-        <p class="edu-degree">BA Economics</p>
-        <p class="edu-school">University of Michigan, Ann Arbor</p>
-        <p class="edu-year">Awarded March 1988</p>
-      </div>
-      <div class="cert-card">
-        <p class="cert-name">Project Management Professional (PMP)</p>
-        <p class="cert-date">Project Management Institute — June 2007</p>
-      </div>
-      <div class="cert-card">
-        <p class="cert-name">PMI Scheduling Professional (PMI-SP)</p>
-        <p class="cert-date">Project Management Institute — August 2010</p>
-      </div>
-      <div class="cert-card">
-        <p class="cert-name">ITIL® Foundation</p>
-        <p class="cert-date">November 2012</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- ── Now ── -->
-  <section id="now">
-    <p class="section-label">// now</p>
-    <h2 class="section-title">Currently Exploring</h2>
-    <p class="intro">
-      I believe staying curious is the most important trait an engineer can have.
-      Outside of work I'm exploring these languages for personal projects and to keep
-      my mental model of computing broad.
-    </p>
-    <div class="now-grid">
-      <div class="now-card">
-        <p class="now-lang">Rust</p>
-        <p class="now-desc">Systems programming, ownership model, memory safety without GC.</p>
-      </div>
-      <div class="now-card">
-        <p class="now-lang">Go</p>
-        <p class="now-desc">CLI tooling, concurrency patterns, fast compilation.</p>
-      </div>
-      <div class="now-card">
-        <p class="now-lang">Python</p>
-        <p class="now-desc">Data scripting, automation, exploring the ML ecosystem.</p>
-      </div>
-      <div class="now-card">
-        <p class="now-lang">PowerShell</p>
-        <p class="now-desc">Windows automation, pipeline scripting, DevOps tooling.</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- ── Footer ── -->
-  <footer>
-    <div class="footer-links">
-      <a href="https://github.com/kanozad" target="_blank" rel="noopener">GitHub</a>
-      <a href="https://www.linkedin.com/in/dougkanoza" target="_blank" rel="noopener">LinkedIn</a>
-    </div>
-    <span class="footer-copy">Douglas M. Kanoza &mdash; Baltimore, MD</span>
-  </footer>
-
-  <script src="script.js"></script>
-</body>
+        <script src="script.js"></script>
+    </body>
 </html>
